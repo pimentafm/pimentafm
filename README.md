@@ -6,7 +6,7 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
   <img style="margin-right: 10px;" alt="Fernando's LinkdIn" width="40px" src="./socialnetworks/LinkedIn.png" />
 </a>
 
-<br /><br />
+<br />
 
 ### Technologies
 <a href="https://nextjs.org/">
@@ -55,7 +55,7 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
   <img style="margin-right: 10px;" alt="GDAL" width="36px" src="./technologies/gdal.png" />
 </a>
 
-
+<br />
 
 <div align="center">
   <p>
