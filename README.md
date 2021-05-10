@@ -65,10 +65,4 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=pimentafm&theme=tokyonight&show_icons=true&hide_border=true" />
     </a>
   </p>
-
-  <p>
-    <a href="https://github.com/pimentafm">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimentafm&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook" />
-    </a>
-  </p>
 </div>
