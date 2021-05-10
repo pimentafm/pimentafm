@@ -9,11 +9,17 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
 <br />
 
 ### Technologies
-<a href="https://nextjs.org/">
-  <img style="margin-right: 10px;" alt="NextJS" width="40px" src="./technologies/nextjs.svg" />
+<a href="https://grass.osgeo.org/">
+  <img style="margin-right: 10px;" alt="GRASS GIS" width="40px" src="./technologies/grassgis.png" />
 </a>
-<a href="https://www.linkedin.com/in/fernando-m-pimenta/">
-  <img style="margin-right: 10px;" alt="ReactJS" width="40px" src="./technologies/reactjs.svg" />
+<a href="https://qgis.org">
+  <img style="margin-right: 10px;" alt="QGIS" width="40px" src="./technologies/qgis.png" />
+</a>
+<a href="http://www.saga-gis.org/">
+  <img style="margin-right: 10px;" alt="SAGA GIS" width="40px" src="./technologies/sagagis.png" />
+</a>
+<a href="https://gdal.org/">
+  <img style="margin-right: 10px;" alt="GDAL" width="36px" src="./technologies/gdal.png" />
 </a>
 <a href="https://www.python.org/">
   <img style="margin-right: 10px;" alt="Python" width="40px" src="./technologies/python.svg" />
@@ -24,6 +30,12 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
 <a href="https://postgis.net/">
   <img style="margin-right: 10px;" alt="PostGIS" width="26px" src="./technologies/postgis.png" />
 </a>
+<a href="https://devdocs.io/bash/">
+  <img style="margin-right: 10px;" alt="Bash - Bourne again Shell Script" width="40px" src="./technologies/shellscript.png" />
+</a>
+<a href="https://www.fortran90.org/">
+  <img style="margin-right: 10px;" alt="Fortran" width="40px" src="./technologies/fortran.png" />
+</a>
 <a href="https://www.r-project.org/">
   <img style="margin-right: 10px;" alt="R Statistical computing" width="47px" src="./technologies/R.svg" />
 </a>
@@ -33,26 +45,14 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
 <a href="https://mapserver.org/">
   <img style="margin-right: 10px;" alt="Mapserver - Open source web mapping" width="26px" src="./technologies/mapserver.png" />
 </a>
-<a href="https://devdocs.io/bash/">
-  <img style="margin-right: 10px;" alt="Bash - Bourne again Shell Script" width="40px" src="./technologies/shellscript.png" />
+<a href="https://nextjs.org/">
+  <img style="margin-right: 10px;" alt="NextJS" width="40px" src="./technologies/nextjs.svg" />
 </a>
-<a href="https://www.fortran90.org/">
-  <img style="margin-right: 10px;" alt="Fortran" width="40px" src="./technologies/fortran.png" />
+<a href="https://www.linkedin.com/in/fernando-m-pimenta/">
+  <img style="margin-right: 10px;" alt="ReactJS" width="40px" src="./technologies/reactjs.svg" />
 </a>
 <a href="https://insomnia.rest/">
   <img style="margin-right: 10px;" alt="Insomnia" width="40px" src="./technologies/insomnia.png" />
-</a>
-<a href="https://qgis.org">
-  <img style="margin-right: 10px;" alt="QGIS" width="40px" src="./technologies/qgis.png" />
-</a>
-<a href="https://grass.osgeo.org/">
-  <img style="margin-right: 10px;" alt="GRASS GIS" width="40px" src="./technologies/grassgis.png" />
-</a>
-<a href="http://www.saga-gis.org/">
-  <img style="margin-right: 10px;" alt="SAGA GIS" width="40px" src="./technologies/sagagis.png" />
-</a>
-<a href="https://gdal.org/">
-  <img style="margin-right: 10px;" alt="GDAL" width="36px" src="./technologies/gdal.png" />
 </a>
 
 <br />
