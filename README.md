@@ -8,7 +8,7 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
 
 <br />
 
-### Technologies
+### Technologies I use
 <a href="https://grass.osgeo.org/">
   <img style="margin-right: 10px;" alt="GRASS GIS" width="40px" src="./technologies/grassgis.png" />
 </a>
@@ -20,6 +20,9 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
 </a>
 <a href="https://gdal.org/">
   <img style="margin-right: 10px;" alt="GDAL" width="36px" src="./technologies/gdal.png" />
+</a>
+<a href="https://www.generic-mapping-tools.org/">
+  <img style="margin-right: 10px;" alt="Generic Mapping Tools" width="60px" src="./technologies/gmt.png" />
 </a>
 <a href="https://www.python.org/">
   <img style="margin-right: 10px;" alt="Python" width="40px" src="./technologies/python.svg" />
@@ -70,7 +73,3 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
     </a>
   </p>
 </div>
-
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
-</p>
