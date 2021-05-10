@@ -57,8 +57,7 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
 <a href="https://insomnia.rest/">
   <img style="margin-right: 10px;" alt="Insomnia" width="40px" src="./technologies/insomnia.png" />
 </a>
-
-<br />
+<br /> <br />
 
 <div align="center">
   <p>
