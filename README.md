@@ -25,20 +25,23 @@ I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and
 <a href="https://www.generic-mapping-tools.org/">
   <img style="margin-right: 10px;" alt="Generic Mapping Tools" width="60px" src="./technologies/gmt.png" />
 </a>
+<a href="https://earthengine.google.com/">
+  <img style="margin-right: 10px;" alt="Google Earth Engine" width="40px" src="./technologies/gee.png" />
+</a>
 <a href="https://www.python.org/">
   <img style="margin-right: 10px;" alt="Python" width="40px" src="./technologies/python.svg" />
-</a>
-<a href="https://www.postgresql.org/">
-  <img style="margin-right: 10px;" alt="PostgreSQL" width="40px" src="./technologies/postgresql.svg" />
-</a>
-<a href="https://postgis.net/">
-  <img style="margin-right: 10px;" alt="PostGIS" width="26px" src="./technologies/postgis.png" />
 </a>
 <a href="https://devdocs.io/bash/">
   <img style="margin-right: 10px;" alt="Bash - Bourne again Shell Script" width="40px" src="./technologies/shellscript.png" />
 </a>
 <a href="https://www.fortran90.org/">
   <img style="margin-right: 10px;" alt="Fortran" width="40px" src="./technologies/fortran.png" />
+</a>
+<a href="https://www.postgresql.org/">
+  <img style="margin-right: 10px;" alt="PostgreSQL" width="40px" src="./technologies/postgresql.svg" />
+</a>
+<a href="https://postgis.net/">
+  <img style="margin-right: 10px;" alt="PostGIS" width="26px" src="./technologies/postgis.png" />
 </a>
 <a href="https://www.r-project.org/">
   <img style="margin-right: 10px;" alt="R Statistical computing" width="47px" src="./technologies/R.svg" />
