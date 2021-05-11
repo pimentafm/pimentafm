@@ -2,10 +2,6 @@
 
 I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and use geotechnologies to solve challenges in geodetic sciences, food security, water resources, territorial management and public policies.
 
-
-<img style="margin-right: 10px;" alt="GRASS GIS" width="500px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
-
-
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/fernando-m-pimenta/">
   <img style="margin-right: 10px;" alt="Fernando's LinkdIn" width="40px" src="./socialnetworks/LinkedIn.png" />
