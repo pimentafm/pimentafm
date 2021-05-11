@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fernando Pimenta
 
-I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and use geotechnologies to solve challenges in multidisciplinary science fields as cartography, geodesy, food security, water resources, territorial management and public policies.
+I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and use geotechnologies to solve challenges in multidisciplinary fields of science such as cartography, geodesy, remote sensing, food security, water resources, territorial management and public policies.
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/fernando-m-pimenta/">
@@ -54,6 +54,12 @@ I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and
 </a>
 <a href="https://reactjs.org/">
   <img style="margin-right: 10px;" alt="ReactJS" width="40px" src="./technologies/reactjs.svg" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img style="margin-right: 10px;" alt="TypeScript" width="40px" src="./technologies/typescript.png" />
+</a>
+<a href="https://www.javascript.com/">
+  <img style="margin-right: 10px;" alt="JavaScript" width="40px" src="./technologies/javascript.png" />
 </a>
 <a href="https://insomnia.rest/">
   <img style="margin-right: 10px;" alt="Insomnia" width="40px" src="./technologies/insomnia.png" />
