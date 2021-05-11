@@ -1,6 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fernando Pimenta
 
-I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the development of technologies applied to geoprocessing and remote sensing to solve challenges related to public policies.
+I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and use geotechnologies to solve challenges in geodetic sciences, food security, water resources, territorial management and public policies.
+
+
+<img style="margin-right: 10px;" alt="GRASS GIS" width="500px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+
+
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/fernando-m-pimenta/">
   <img style="margin-right: 10px;" alt="Fernando's LinkdIn" width="40px" src="./socialnetworks/LinkedIn.png" />
@@ -51,7 +56,7 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
 <a href="https://nextjs.org/">
   <img style="margin-right: 10px;" alt="NextJS" width="40px" src="./technologies/nextjs.svg" />
 </a>
-<a href="https://www.linkedin.com/in/fernando-m-pimenta/">
+<a href="https://reactjs.org/">
   <img style="margin-right: 10px;" alt="ReactJS" width="40px" src="./technologies/reactjs.svg" />
 </a>
 <a href="https://insomnia.rest/">
@@ -66,3 +71,4 @@ I'm Surveying and Cartography Engineer and Biosystems Engineer. I work with the 
     </a>
   </p>
 </div>
+<br />
