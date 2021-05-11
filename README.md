@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fernando Pimenta
 
-I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and use geotechnologies to solve challenges in cartography, geodesy, food security, water resources, territorial management and public policies.
+I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and use geotechnologies to solve challenges in multidisciplinary science fields as cartography, geodesy, food security, water resources, territorial management and public policies.
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/fernando-m-pimenta/">
