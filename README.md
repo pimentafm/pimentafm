@@ -7,7 +7,44 @@ I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and
   <img style="margin-right: 10px;" alt="Fernando's LinkdIn" width="40px" src="./socialnetworks/LinkedIn.png" />
 </a>
 
+<a href="https://www.researchgate.net/profile/Fernando-Pimenta-2">
+  <img style="margin-right: 10px;" alt="Fernando's Research Gate" width="40px" src="./socialnetworks/ResearchGate.png" />
+</a>
+
+<a href="https://orcid.org/0000-0002-7589-5721">
+  <img style="margin-right: 10px;" alt="Fernando's ORCID" width="40px" src="./socialnetworks/OrcID.png" />
+</a>
+
+<a href="http://lattes.cnpq.br/0646984654461300">
+  <img style="margin-right: 10px;" alt="Fernando's Academic CV" width="40px" src="./socialnetworks/Lattes.png" />
+</a>
+
 <br />
+
+### My Academic Reseach
+<a href="https://www.mdpi.com/2072-4292/13/6/1088">
+  Historical Changes in Land Use and Suitability for Future Agriculture Expansion in Western Bahia, Brazil
+</a>
+<br />
+
+<a href="http://doi.wiley.com/10.1111/gcb.13314">
+  Patterns of land use, extensification, and intensification of Brazilian agriculture
+</a>
+<br />
+
+<a href="https://www.mdpi.com/2073-4441/11/5/933">
+  Climate Change and Intense Irrigation Growth in Western Bahia, Brazil: The Urgent Need for Hydroclimatic Monitoring
+</a>
+<br />
+
+<a href="https://dx.plos.org/10.1371/journal.pone.0241637">
+  Carbon stocks and dynamics of different land uses on the Cerrado agricultural frontier
+</a>
+<br />
+
+<a href="https://bg.copernicus.org/articles/15/919/2018/">
+  Influence of climate variability, fire and phosphorus limitation on vegetation structure and dynamics of the Amazon–Cerrado border
+</a>
 
 ### Technologies I use
 <a href="https://grass.osgeo.org/">
