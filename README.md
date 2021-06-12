@@ -57,13 +57,9 @@ I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and
 </a>
 <br />
 
-
 :point_right: <a href="http://lattes.cnpq.br/0646984654461300">
   More research and work I developed can be found on my Lattes CV
 </a>:point_left:
-
-<br />
-
 
 ### Technologies I use
 <a href="https://grass.osgeo.org/">
