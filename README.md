@@ -64,7 +64,6 @@ I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and
 
 <br />
 
-
 ### Technologies I use
 <a href="https://grass.osgeo.org/">
   <img style="margin-right: 10px;" alt="GRASS GIS" width="40px" src="./technologies/grassgis.png" />
