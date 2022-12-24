@@ -39,62 +39,74 @@ I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and
 :point_right: [More research and work can be found on my Lattes](http://lattes.cnpq.br/0646984654461300) :point_left:
 
 ### Technologies I use
-<a href="https://grass.osgeo.org/">
+<a href="https://grass.osgeo.org">
   <img style="margin-right: 10px;" alt="GRASS GIS" width="40px" src="./technologies/grassgis.png" />
 </a>
 <a href="https://qgis.org">
   <img style="margin-right: 10px;" alt="QGIS" width="40px" src="./technologies/qgis.png" />
 </a>
-<a href="http://www.saga-gis.org/">
+<a href="http://www.saga-gis.org">
   <img style="margin-right: 10px;" alt="SAGA GIS" width="40px" src="./technologies/sagagis.png" />
 </a>
-<a href="https://gdal.org/">
+<a href="https://gdal.org">
   <img style="margin-right: 10px;" alt="GDAL" width="36px" src="./technologies/gdal.png" />
 </a>
-<a href="https://www.generic-mapping-tools.org/">
+<a href="https://www.generic-mapping-tools.org">
   <img style="margin-right: 10px;" alt="Generic Mapping Tools" width="60px" src="./technologies/gmt.png" />
 </a>
-<a href="https://earthengine.google.com/">
+<a href="https://earthengine.google.com">
   <img style="margin-right: 10px;" alt="Google Earth Engine" width="40px" src="./technologies/gee.png" />
 </a>
-<a href="https://www.python.org/">
+<a href="https://www.python.org">
   <img style="margin-right: 10px;" alt="Python" width="40px" src="./technologies/python.svg" />
 </a>
-<a href="https://devdocs.io/bash/">
+<a href="https://devdocs.io/bash">
   <img style="margin-right: 10px;" alt="Bash - Bourne again Shell Script" width="40px" src="./technologies/shellscript.png" />
 </a>
-<a href="https://www.fortran90.org/">
+<a href="https://www.fortran90.org">
   <img style="margin-right: 10px;" alt="Fortran" width="40px" src="./technologies/fortran.png" />
 </a>
-<a href="https://www.postgresql.org/">
+<a href="https://www.postgresql.org">
   <img style="margin-right: 10px;" alt="PostgreSQL" width="40px" src="./technologies/postgresql.svg" />
 </a>
-<a href="https://postgis.net/">
+<a href="https://postgis.net">
   <img style="margin-right: 10px;" alt="PostGIS" width="26px" src="./technologies/postgis.png" />
 </a>
-<a href="https://www.r-project.org/">
+<a href="https://www.r-project.org">
   <img style="margin-right: 10px;" alt="R Statistical computing" width="47px" src="./technologies/R.svg" />
 </a>
-<a href="https://openlayers.org/">
+<a href="https://openlayers.org">
   <img style="margin-right: 10px;" alt="Openlayers" width="40px" src="./technologies/openlayers.png" />
 </a>
-<a href="https://mapserver.org/">
+<a href="https://mapserver.org">
   <img style="margin-right: 10px;" alt="Mapserver - Open source web mapping" width="26px" src="./technologies/mapserver.png" />
 </a>
-<a href="https://nextjs.org/">
+<a href="https://nextjs.org">
   <img style="margin-right: 10px;" alt="NextJS" width="40px" src="./technologies/nextjs.svg" />
 </a>
-<a href="https://reactjs.org/">
+<a href="https://reactjs.org">
   <img style="margin-right: 10px;" alt="ReactJS" width="40px" src="./technologies/reactjs.svg" />
 </a>
-<a href="https://www.typescriptlang.org/">
+<a href="https://www.typescriptlang.org">
   <img style="margin-right: 10px;" alt="TypeScript" width="40px" src="./technologies/typescript.png" />
 </a>
-<a href="https://www.javascript.com/">
+<a href="https://www.javascript.com">
   <img style="margin-right: 10px;" alt="JavaScript" width="40px" src="./technologies/javascript.png" />
 </a>
-<a href="https://insomnia.rest/">
+<a href="https://insomnia.rest">
   <img style="margin-right: 10px;" alt="Insomnia" width="40px" src="./technologies/insomnia.png" />
+</a>
+<a href="https://ifcjs.io">
+  <img style="margin-right: 10px;" alt="IFC" width="40px" src="./technologies/ifcjs.png" />
+</a>
+<a href="https://www.docker.com">
+  <img style="margin-right: 10px;" alt="Docker" width="40px" src="./technologies/docker.png" />
+</a>
+<a href="https://kubernetes.io">
+  <img style="margin-right: 10px;" alt="Kubernetes" width="40px" src="./technologies/k8s.png" />
+</a>
+<a href="https://www.cloudcompare.org">
+  <img style="margin-right: 10px;" alt="Clound Compare" width="40px" src="./technologies/cloudcompare.png" />
 </a>
 <br /> <br />
 
