@@ -108,6 +108,12 @@ I am a Surveying and Cartography Engineer and Biosystems Engineer. I develop and
 <a href="https://www.cloudcompare.org">
   <img style="margin-right: 10px;" alt="Clound Compare" width="40px" src="./technologies/cloudcompare.png" />
 </a>
+<a href="https://quarkus.io">
+  <img style="margin-right: 10px;" alt="Quarkus" width="40px" src="./technologies/quarkus.png" />
+</a>
+<a href="https://spring.io/">
+  <img style="margin-right: 10px;" alt="Spring Boot" width="40px" src="./technologies/spring.svg" />
+</a>
 <br /> <br />
 
 <div align="center">
