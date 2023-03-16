@@ -114,6 +114,15 @@ I am a Data Science Specialist, Surveying and Cartography Engineer and Biosystem
 <a href="https://spring.io/">
   <img style="margin-right: 10px;" alt="Spring Boot" width="40px" src="./technologies/spring.svg" />
 </a>
+<a href="https://geoserver.org/">
+  <img style="margin-right: 10px;" alt="Geoserver" width="40px" src="./technologies/geoserver.png" />
+</a>
+<a href="https://geonode.org/">
+  <img style="margin-right: 10px;" alt="Geonode" width="40px" src="./technologies/geonode.svg" />
+</a>
+<a href="https://docs.mapstore.geosolutionsgroup.com">
+  <img style="margin-right: 10px;" alt="Mapstore" width="32px" src="./technologies/mapstore.png" />
+</a>
 <br /> <br />
 
 <div align="center">
