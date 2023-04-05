@@ -1,6 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fernando Pimenta
 
-I am a Data Science Specialist, Surveying and Cartography Engineer and Biosystems Engineer. I develop and use geotechnologies to solve challenges in multidisciplinary fields of science such as cartography, geodesy, remote sensing, food security, water resources, territorial management and public policies.
+For software development, deployment, and infrastructure management, I have experience delivering high-quality software solutions and managing complex infrastructure environments. With expertise in agile methodologies, cloud computing, DevOps practices, and containerization, I am adept at improving deployment frequency, automating workflows, and streamlining processes to achieve optimal results.
+
+For solving challenges in multidisciplinary fields, I am also an experienced professional with a background in Data Science, Surveying and Cartography Engineering, and Biosystems Engineering. With my expertise in geotechnologies, I tackle complex challenges across a range of fields, including cartography, geodesy, remote sensing, food security, water resources, territorial management, and public policy. My ability to develop and use cutting-edge geotechnologies to deliver actionable insights and drive positive change makes me a valuable asset to any organization looking to solve complex problems and achieve success.
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/fernando-m-pimenta/">
