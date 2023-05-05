@@ -125,6 +125,15 @@ For solving challenges in multidisciplinary fields, I am also an experienced pro
 <a href="https://docs.mapstore.geosolutionsgroup.com">
   <img style="margin-right: 10px;" alt="Mapstore" width="32px" src="./technologies/mapstore.png" />
 </a>
+<a href="https://www.jenkins.io">
+  <img style="margin-right: 10px;" alt="Jenkins" width="32px" src="./technologies/jenkins.png" />
+</a>
+<a href="https://www.terraform.io">
+  <img style="margin-right: 10px;" alt="Terraform" width="32px" src="./technologies/terraform.png" />
+</a>
+<a href="https://www.ansible.com">
+  <img style="margin-right: 10px;" alt="Ansible" width="32px" src="./technologies/ansible.png" />
+</a>
 <br /> <br />
 
 <div align="center">
