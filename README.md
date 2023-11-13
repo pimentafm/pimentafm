@@ -23,7 +23,7 @@ For solving challenges in multidisciplinary fields, I am also an experienced pro
 
 <br />
 
-### Some Academic Reseach
+### Some Academic Research
 :page_with_curl: [Historical Changes in Land Use and Suitability for Future Agriculture Expansion in Western Bahia, Brazil](https://www.mdpi.com/2072-4292/13/6/1088)
 
 :page_with_curl: [Patterns of land use, extensification, and intensification of Brazilian agriculture](http://doi.wiley.com/10.1111/gcb.13314)
