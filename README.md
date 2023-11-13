@@ -134,6 +134,9 @@ For solving challenges in multidisciplinary fields, I am also an experienced pro
 <a href="https://www.ansible.com">
   <img style="margin-right: 10px;" alt="Ansible" width="32px" src="./technologies/ansible.png" />
 </a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+  <img style="margin-right: 10px;" alt="C#" width="32px" src="./technologies/csharp.png" />
+</a>
 <br /> <br />
 
 <div align="center">
