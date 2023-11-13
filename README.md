@@ -38,7 +38,7 @@ For solving challenges in multidisciplinary fields, I am also an experienced pro
 
 :blue_book: [Servidores de mapas: programação para disponibilizar dados geográficos multidisciplinares utilizando tecnologias livres](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/950263/servidores-de-mapas-programacao-para-disponibilizar-dados-geograficos-multidisciplinares-utilizando-tecnologias-livres)
 
-:point_right: [More research and work can be found on my Lattes](http://lattes.cnpq.br/0646984654461300) :point_left:
+:point_right: [More research and work can be found on my Lattes CV](http://lattes.cnpq.br/0646984654461300) :point_left:
 
 ### Technologies I use
 <a href="https://grass.osgeo.org">
