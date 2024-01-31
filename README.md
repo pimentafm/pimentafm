@@ -1,8 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fernando Pimenta
 
-For software development, deployment, and infrastructure management, I have experience delivering high-quality software solutions and managing complex infrastructure environments. With expertise in agile methodologies, cloud computing, DevOps practices, and containerization, I am adept at improving deployment frequency, automating workflows, and streamlining processes to achieve optimal results.
+I am deeply immersed in the fusion of Geospatial Data Infrastructures (GDI) with DevOps methodologies, further enriched by my specialization in Data Science and Artificial Intelligence (AI) applied to geospatial data. My expertise encompasses the development and maintenance of sophisticated GDI systems, optimized through DevOps practices such as automation, continuous integration (CI), and continuous deployment (CD), ensuring seamless and efficient geospatial operations.
 
-For solving challenges in multidisciplinary fields, I am also an experienced professional with a background in Data Science, Surveying and Cartography Engineering, and Biosystems Engineering. With my expertise in geotechnologies, I tackle complex challenges across a range of fields, including cartography, geodesy, remote sensing, food security, water resources, territorial management, and public policy. My ability to develop and use cutting-edge geotechnologies to deliver actionable insights and drive positive change makes me a valuable asset to any organization looking to solve complex problems and achieve success.
+In the realm of data science and AI, I focus on extracting valuable insights and predictive models from geospatial datasets. My proficiency includes leveraging machine learning algorithms and AI techniques to analyze and interpret complex geospatial data, leading to innovative solutions in areas like climate analysis, urban planning, and resource management. By integrating these advanced analytical methods with robust GDI systems, I ensure that geospatial data is not only accessible and manageable but also actionable, providing deep, data-driven insights that drive strategic decisions and foster significant advancements in various sectors.
+
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/fernando-m-pimenta/">
@@ -23,7 +24,7 @@ For solving challenges in multidisciplinary fields, I am also an experienced pro
 
 <br />
 
-### Some Academic Research
+### Academic Research
 :page_with_curl: [Historical Changes in Land Use and Suitability for Future Agriculture Expansion in Western Bahia, Brazil](https://www.mdpi.com/2072-4292/13/6/1088)
 
 :page_with_curl: [Patterns of land use, extensification, and intensification of Brazilian agriculture](http://doi.wiley.com/10.1111/gcb.13314)
