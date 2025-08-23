@@ -60,14 +60,17 @@ In the realm of data science and AI, I focus on extracting valuable insights and
 <a href="https://earthengine.google.com">
   <img style="margin-right: 10px;" alt="Google Earth Engine" width="40px" src="./technologies/gee.png" />
 </a>
-<a href="https://www.python.org">
-  <img style="margin-right: 10px;" alt="Python" width="40px" src="./technologies/python.svg" />
+<a href="https://go.dev">
+  <img style="margin-right: 10px;" alt="Go" width="30px" src="./technologies/gopher.png" />
 </a>
 <a href="https://devdocs.io/bash">
   <img style="margin-right: 10px;" alt="Bash - Bourne again Shell Script" width="40px" src="./technologies/shellscript.png" />
 </a>
 <a href="https://www.fortran90.org">
   <img style="margin-right: 10px;" alt="Fortran" width="40px" src="./technologies/fortran.png" />
+</a>
+<a href="https://www.python.org">
+  <img style="margin-right: 10px;" alt="Python" width="40px" src="./technologies/python.svg" />
 </a>
 <a href="https://www.postgresql.org">
   <img style="margin-right: 10px;" alt="PostgreSQL" width="40px" src="./technologies/postgresql.svg" />
@@ -105,14 +108,14 @@ In the realm of data science and AI, I focus on extracting valuable insights and
 <a href="https://www.docker.com">
   <img style="margin-right: 10px;" alt="Docker" width="40px" src="./technologies/docker.png" />
 </a>
+<a href="https://www.jenkins.io">
+  <img style="margin-right: 10px;" alt="Jenkins" width="32px" src="./technologies/jenkins.png" />
+</a>
 <a href="https://kubernetes.io">
   <img style="margin-right: 10px;" alt="Kubernetes" width="40px" src="./technologies/k8s.png" />
 </a>
 <a href="https://www.cloudcompare.org">
   <img style="margin-right: 10px;" alt="Clound Compare" width="40px" src="./technologies/cloudcompare.png" />
-</a>
-<a href="https://quarkus.io">
-  <img style="margin-right: 10px;" alt="Quarkus" width="40px" src="./technologies/quarkus.png" />
 </a>
 <a href="https://spring.io/">
   <img style="margin-right: 10px;" alt="Spring Boot" width="40px" src="./technologies/spring.svg" />
@@ -126,9 +129,6 @@ In the realm of data science and AI, I focus on extracting valuable insights and
 <a href="https://docs.mapstore.geosolutionsgroup.com">
   <img style="margin-right: 10px;" alt="Mapstore" width="32px" src="./technologies/mapstore.png" />
 </a>
-<a href="https://www.jenkins.io">
-  <img style="margin-right: 10px;" alt="Jenkins" width="32px" src="./technologies/jenkins.png" />
-</a>
 <a href="https://www.terraform.io">
   <img style="margin-right: 10px;" alt="Terraform" width="32px" src="./technologies/terraform.png" />
 </a>
@@ -137,6 +137,9 @@ In the realm of data science and AI, I focus on extracting valuable insights and
 </a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
   <img style="margin-right: 10px;" alt="C#" width="32px" src="./technologies/csharp.png" />
+</a>
+<a href="https://quarkus.io">
+  <img style="margin-right: 10px;" alt="Quarkus" width="40px" src="./technologies/quarkus.png" />
 </a>
 <br /> <br />
 
