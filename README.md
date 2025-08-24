@@ -123,6 +123,10 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
   &nbsp;&nbsp;
   <a href="https://mapserver.org"><img alt="MapServer" width="26px" src="./technologies/mapserver.png" /></a>
   &nbsp;&nbsp;
+  <a href="https://maplibre.org"><img alt="MapLibre" width="26px" src="./technologies/maplibre.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.mapbox.com"><img alt="Mapbox" width="40px" src="./technologies/mapbox.png" /></a>
+  &nbsp;&nbsp;
   <a href="https://openlayers.org"><img alt="OpenLayers" width="40px" src="./technologies/openlayers.png" /></a>
 
 </div>
