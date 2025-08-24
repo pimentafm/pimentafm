@@ -83,7 +83,7 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
 
 ### Technical Publications
 
-- **[Map Servers: Programming for multidisciplinary geographic data delivery using open source technologies](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/950263/servidores-de-mapas-programacao-para-disponibilizar-dados-geograficos-multidisciplinares-utilizando-tecnologias-livres)**  
+- **[Map Servers: Programming for multidisciplinary geographic data delivery using open source technologies](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/950263/servidores-de-mapas-programacao-para-disponibilizar-dados-geograficos-multidisciplinares-utilizando-tecnologias-livres)** `[pt-BR]`  
   _Embrapa_ - Technical guide for geospatial web services implementation
 
 **[Complete publication list available on Lattes CV](http://lattes.cnpq.br/0646984654461300)**
