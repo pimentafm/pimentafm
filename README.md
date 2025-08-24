@@ -103,6 +103,10 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
   &nbsp;&nbsp;
   <a href="https://www.rancher.com"><img alt="Rancher" width="50px" src="./technologies/rancher.png" /></a>
   &nbsp;&nbsp;
+  <a href="https://helm.sh"><img alt="Helm" width="40px" src="./technologies/helm.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://goharbor.io"><img alt="Harbor" width="40px" src="./technologies/harbor.png" /></a>
+  &nbsp;&nbsp;
   <a href="https://argoproj.github.io"><img alt="Argo" width="34px" src="./technologies/argocd.png" /></a>
   &nbsp;&nbsp;
     <a href="https://github.com/features/actions"><img alt="Actions" width="32px" src="./technologies/actions.png" /></a>
