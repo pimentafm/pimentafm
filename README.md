@@ -95,11 +95,19 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
 <div align="left">
   <a href="https://www.docker.com"><img alt="Docker" width="40px" src="./technologies/docker.png" /></a>
   &nbsp;&nbsp;
+  <a href="https://docs.docker.com/engine/swarm/"><img alt="Docker Swarm" width="40px" src="./technologies/docker-swarm.png" /></a>
+  &nbsp;&nbsp;
   <a href="https://kubernetes.io"><img alt="Kubernetes" width="40px" src="./technologies/k8s.png" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.terraform.io"><img alt="Terraform" width="32px" src="./technologies/terraform.png" /></a>
+  <a href="https://istio.io"><img alt="Istio" width="40px" src="./technologies/istio.png" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.ansible.com"><img alt="Ansible" width="32px" src="./technologies/ansible.png" /></a>
+  <a href="https://www.rancher.com"><img alt="Rancher" width="50px" src="./technologies/rancher.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://argoproj.github.io"><img alt="Argo" width="34px" src="./technologies/argocd.png" /></a>
+  &nbsp;&nbsp;
+    <a href="https://github.com/features/actions"><img alt="Actions" width="32px" src="./technologies/actions.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.terraform.io"><img alt="Terraform" width="32px" src="./technologies/terraform.png" /></a>
   &nbsp;&nbsp;
   <a href="https://www.jenkins.io"><img alt="Jenkins" width="32px" src="./technologies/jenkins.png" /></a>
 </div>
@@ -115,7 +123,8 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
   &nbsp;&nbsp;
   <a href="https://mapserver.org"><img alt="MapServer" width="26px" src="./technologies/mapserver.png" /></a>
   &nbsp;&nbsp;
-  <a href="https://earthengine.google.com"><img alt="Google Earth Engine" width="40px" src="./technologies/gee.png" /></a>
+  <a href="https://openlayers.org"><img alt="OpenLayers" width="40px" src="./technologies/openlayers.png" /></a>
+
 </div>
 
 ### Data Architecture & Processing
@@ -129,17 +138,38 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
   &nbsp;&nbsp;
   <a href="https://grass.osgeo.org"><img alt="GRASS GIS" width="40px" src="./technologies/grassgis.png" /></a>
   &nbsp;&nbsp;
+  <a href="https://qgis.org"><img alt="QGIS" width="40px" src="./technologies/qgis.png" /></a>
+  &nbsp;&nbsp;
+  <a href="http://www.saga-gis.org"><img alt="SAGA GIS" width="40px" src="./technologies/sagagis.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.gvsig.com"><img alt="gvSIG" width="40px" src="./technologies/gvsig.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://earthengine.google.com"><img alt="Google Earth Engine" width="40px" src="./technologies/gee.png" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.generic-mapping-tools.org"><img alt="Generic Mapping Tools" width="60px" src="./technologies/gmt.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.cloudcompare.org"><img alt="CloudCompare" width="40px" src="./technologies/cloudcompare.png" /></a>
+&nbsp;&nbsp;
 </div>
 
 ### Solution Development Stack
 
 <div align="left">
-  <a href="https://www.python.org"><img alt="Python" width="40px" src="./technologies/python.svg" /></a>
+  <a href="https://devdocs.io/bash"><img alt="Bash" width="40px" src="./technologies/shellscript.png" /></a>
   &nbsp;&nbsp;
   <a href="https://go.dev"><img alt="Go" width="30px" src="./technologies/gopher.png" /></a>
   &nbsp;&nbsp;
   <a href="https://www.typescriptlang.org"><img alt="TypeScript" width="40px" src="./technologies/typescript.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://reactjs.org"><img alt="React" width="40px" src="./technologies/reactjs.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://nextjs.org"><img alt="Next.js" width="40px" src="./technologies/nextjs.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ThatOpen"><img alt="TOC" width="40px" src="./technologies/toc.jpeg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.javascript.com"><img alt="JavaScript" width="40px" src="./technologies/javascript.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.fortran90.org"><img alt="Fortran" width="40px" src="./technologies/fortran.png" /></a>
   &nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" width="32px" src="./technologies/csharp.png" /></a>
   &nbsp;&nbsp;
@@ -148,41 +178,12 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
   <a href="https://quarkus.io"><img alt="Quarkus" width="40px" src="./technologies/quarkus.png" /></a>
 </div>
 
-### Frontend & User Experience
-
-<div align="left">
-  <a href="https://reactjs.org"><img alt="React" width="40px" src="./technologies/reactjs.svg" /></a>
-  &nbsp;&nbsp;
-  <a href="https://nextjs.org"><img alt="Next.js" width="40px" src="./technologies/nextjs.svg" /></a>
-  &nbsp;&nbsp;
-  <a href="https://openlayers.org"><img alt="OpenLayers" width="40px" src="./technologies/openlayers.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://ifcjs.io"><img alt="IFC.js" width="40px" src="./technologies/ifcjs.png" /></a>
-</div>
-
 ### Analytics & Research Tools
 
-<div align="left">
-  <a href="https://www.r-project.org"><img alt="R" width="47px" src="./technologies/R.svg" /></a>
-  &nbsp;&nbsp;
-  <a href="https://qgis.org"><img alt="QGIS" width="40px" src="./technologies/qgis.png" /></a>
-  &nbsp;&nbsp;
-  <a href="http://www.saga-gis.org"><img alt="SAGA GIS" width="40px" src="./technologies/sagagis.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.cloudcompare.org"><img alt="CloudCompare" width="40px" src="./technologies/cloudcompare.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.fortran90.org"><img alt="Fortran" width="40px" src="./technologies/fortran.png" /></a>
-</div>
-
-### Integration & API Tools
-
-<div align="left">
-  <a href="https://insomnia.rest"><img alt="Insomnia" width="40px" src="./technologies/insomnia.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.javascript.com"><img alt="JavaScript" width="40px" src="./technologies/javascript.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://devdocs.io/bash"><img alt="Bash" width="40px" src="./technologies/shellscript.png" /></a>
-</div>
+<a href="https://www.python.org"><img alt="Python" width="40px" src="./technologies/python.svg" /></a>
+&nbsp;&nbsp;
+<a href="https://www.r-project.org"><img alt="R" width="47px" src="./technologies/R.svg" /></a>
+&nbsp;&nbsp;
 
 ## GitHub Statistics
 
