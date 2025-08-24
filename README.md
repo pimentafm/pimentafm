@@ -107,6 +107,8 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
   &nbsp;&nbsp;
     <a href="https://github.com/features/actions"><img alt="Actions" width="32px" src="./technologies/actions.png" /></a>
   &nbsp;&nbsp;
+  <a href="https://popeyecli.io"><img alt="Popeye" width="40px" src="./technologies/popeye.png" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.terraform.io"><img alt="Terraform" width="32px" src="./technologies/terraform.png" /></a>
   &nbsp;&nbsp;
   <a href="https://www.jenkins.io"><img alt="Jenkins" width="32px" src="./technologies/jenkins.png" /></a>
