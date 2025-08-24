@@ -184,10 +184,15 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
 
 ### Analytics & Research Tools
 
-<a href="https://www.python.org"><img alt="Python" width="40px" src="./technologies/python.svg" /></a>
-&nbsp;&nbsp;
-<a href="https://www.r-project.org"><img alt="R" width="47px" src="./technologies/R.svg" /></a>
-&nbsp;&nbsp;
+<div align="left">
+  <a href="https://www.python.org"><img alt="Python" width="40px" src="./technologies/python.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.r-project.org"><img alt="R" width="47px" src="./technologies/R.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://positron.posit.co"><img alt="Positron" width="40px" src="./technologies/positron.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.knime.com"><img alt="Knime" width="40px" src="./technologies/knime.png" /></a>
+</div>
 
 ## GitHub Statistics
 
