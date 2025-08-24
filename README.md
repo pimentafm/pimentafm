@@ -2,14 +2,45 @@
 
 ## About
 
-I am a geospatial data scientist and DevOps engineer specializing in the development and implementation of **Geospatial Data Infrastructures (GDI)** integrated with modern DevOps practices. My expertise combines:
+I am a **Geospatial Solutions Architect** specializing in designing and implementing enterprise-grade geospatial ecosystems that integrate cutting-edge technology with business requirements. My expertise encompasses the complete solution lifecycle, from strategic architecture design to technical implementation and operational optimization.
 
-- **Geospatial Data Infrastructure**: Design, development, and maintenance of enterprise-grade GDI systems
-- **DevOps & Automation**: Implementation of CI/CD pipelines, infrastructure as code, and automated deployment workflows
-- **Data Science & AI**: Application of machine learning and AI techniques to geospatial datasets
-- **Research & Development**: Focus on climate analysis, urban planning, and natural resource management
+### Core Expertise
 
-My work bridges the gap between robust technical infrastructure and actionable geospatial insights, enabling data-driven decision making across various sectors including environmental monitoring, agriculture, and urban development.
+- **Solution Architecture**: Design of scalable, resilient geospatial platforms integrating multiple data sources, processing pipelines, and delivery mechanisms
+- **Enterprise Integration**: Architecture of geospatial solutions within complex enterprise environments, ensuring seamless integration with existing systems and workflows
+- **Technology Strategy**: Evaluation and selection of optimal technology stacks for specific business requirements and technical constraints
+- **Infrastructure Architecture**: Design of cloud-native, hybrid, and on-premise geospatial architectures leveraging AWS, Azure, Google Cloud Platform, and enterprise data centers
+- **Data Engineering**: Architecture of robust data pipelines for geospatial ETL, real-time streaming, and large-scale analytics
+- **Geospatial Digital Twins**: Design and implementation of real-time digital replicas of physical environments, integrating IoT sensors, satellite imagery, and predictive modeling
+- **DevOps & Automation**: Implementation of CI/CD pipelines, infrastructure as code, and automated deployment strategies for geospatial applications
+
+My approach combines deep technical knowledge with business acumen, ensuring that geospatial solutions not only meet current requirements but are architected for future scalability and technological evolution.
+
+## Solution Architecture Focus Areas
+
+### Enterprise Geospatial Platforms
+
+- **Spatial Data Lakehouses**: Design of multi-petabyte geospatial data architectures with optimized query performance
+- **Real-time Geospatial Analytics**: Architecture of streaming analytics platforms for location intelligence and IoT sensor data
+- **Geospatial Digital Twins**: Implementation of comprehensive digital replicas combining real-time sensor data, satellite imagery, and predictive analytics for continuous environmental and infrastructure monitoring
+- **Microservices Architecture**: Design of containerized, cloud-native and on-premise geospatial services using Docker, Kubernetes, and service mesh
+- **High-Availability Infrastructure**: Design of resilient on-premise geospatial infrastructures with load balancing, failover clustering, and disaster recovery capabilities
+
+### Industry Solutions
+
+- **Smart Cities & Urban Planning**: Comprehensive GIS platforms integrating IoT, citizen services, and municipal operations with digital twin models for real-time city performance monitoring
+- **Environmental Monitoring**: Large-scale environmental data processing systems for climate research and natural resource management, featuring digital twins of ecosystems and watersheds
+- **Agriculture & Precision Farming**: End-to-end solutions for agricultural monitoring, yield prediction, and resource optimization using field-scale digital twins for crop management
+- **Energy & Utilities**: Geospatial asset management and grid optimization platforms with digital twin infrastructure for predictive maintenance and smart grid operations
+- **Infrastructure Digital Twins**: Real-time monitoring and simulation platforms for transportation networks, buildings, and industrial facilities
+- **Government & Defense**: Secure on-premise geospatial solutions for critical infrastructure, national security, and classified operations with air-gapped architectures
+
+### Technology Integration
+
+- **API Strategy & Design**: RESTful and GraphQL APIs for geospatial data access and real-time operations
+- **Data Mesh Architecture**: Implementation of domain-driven geospatial data architectures for large enterprises
+- **AI/ML Integration**: Architecture of machine learning pipelines for geospatial analytics and automated decision-making
+- **Digital Twin Integration**: Seamless integration of IoT sensors, satellite feeds, and predictive models within unified digital twin frameworks for real-time spatial intelligence
 
 ## Connect
 
@@ -57,47 +88,67 @@ My work bridges the gap between robust technical infrastructure and actionable g
 
 **[Complete publication list available on Lattes CV](http://lattes.cnpq.br/0646984654461300)**
 
-## Technology Stack
+## Architecture & Technology Expertise
 
-### Geospatial & GIS
+### Infrastructure Architecture (Cloud, Hybrid & On-Premise)
 
 <div align="left">
-  <a href="https://grass.osgeo.org"><img alt="GRASS GIS" width="40px" src="./technologies/grassgis.png" /></a>
+  <a href="https://www.docker.com"><img alt="Docker" width="40px" src="./technologies/docker.png" /></a>
   &nbsp;&nbsp;
-  <a href="https://qgis.org"><img alt="QGIS" width="40px" src="./technologies/qgis.png" /></a>
+  <a href="https://kubernetes.io"><img alt="Kubernetes" width="40px" src="./technologies/k8s.png" /></a>
   &nbsp;&nbsp;
-  <a href="http://www.saga-gis.org"><img alt="SAGA GIS" width="40px" src="./technologies/sagagis.png" /></a>
+  <a href="https://www.terraform.io"><img alt="Terraform" width="32px" src="./technologies/terraform.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.ansible.com"><img alt="Ansible" width="32px" src="./technologies/ansible.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.jenkins.io"><img alt="Jenkins" width="32px" src="./technologies/jenkins.png" /></a>
+</div>
+
+### Enterprise Geospatial Platforms
+
+<div align="left">
+  <a href="https://geoserver.org/"><img alt="GeoServer" width="40px" src="./technologies/geoserver.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://geonode.org/"><img alt="GeoNode" width="40px" src="./technologies/geonode.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://docs.mapstore.geosolutionsgroup.com"><img alt="MapStore" width="32px" src="./technologies/mapstore.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://mapserver.org"><img alt="MapServer" width="26px" src="./technologies/mapserver.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://earthengine.google.com"><img alt="Google Earth Engine" width="40px" src="./technologies/gee.png" /></a>
+</div>
+
+### Data Architecture & Processing
+
+<div align="left">
+  <a href="https://www.postgresql.org"><img alt="PostgreSQL" width="40px" src="./technologies/postgresql.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://postgis.net"><img alt="PostGIS" width="26px" src="./technologies/postgis.png" /></a>
   &nbsp;&nbsp;
   <a href="https://gdal.org"><img alt="GDAL" width="36px" src="./technologies/gdal.png" /></a>
   &nbsp;&nbsp;
+  <a href="https://grass.osgeo.org"><img alt="GRASS GIS" width="40px" src="./technologies/grassgis.png" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.generic-mapping-tools.org"><img alt="Generic Mapping Tools" width="60px" src="./technologies/gmt.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://earthengine.google.com"><img alt="Google Earth Engine" width="40px" src="./technologies/gee.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.cloudcompare.org"><img alt="CloudCompare" width="40px" src="./technologies/cloudcompare.png" /></a>
 </div>
 
-### Programming Languages
+### Solution Development Stack
 
 <div align="left">
   <a href="https://www.python.org"><img alt="Python" width="40px" src="./technologies/python.svg" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.r-project.org"><img alt="R" width="47px" src="./technologies/R.svg" /></a>
   &nbsp;&nbsp;
   <a href="https://go.dev"><img alt="Go" width="30px" src="./technologies/gopher.png" /></a>
   &nbsp;&nbsp;
   <a href="https://www.typescriptlang.org"><img alt="TypeScript" width="40px" src="./technologies/typescript.png" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.javascript.com"><img alt="JavaScript" width="40px" src="./technologies/javascript.png" /></a>
-  &nbsp;&nbsp;
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" width="32px" src="./technologies/csharp.png" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.fortran90.org"><img alt="Fortran" width="40px" src="./technologies/fortran.png" /></a>
+  <a href="https://spring.io/"><img alt="Spring Boot" width="40px" src="./technologies/spring.svg" /></a>
   &nbsp;&nbsp;
-  <a href="https://devdocs.io/bash"><img alt="Bash" width="40px" src="./technologies/shellscript.png" /></a>
+  <a href="https://quarkus.io"><img alt="Quarkus" width="40px" src="./technologies/quarkus.png" /></a>
 </div>
 
-### Web Development
+### Frontend & User Experience
 
 <div align="left">
   <a href="https://reactjs.org"><img alt="React" width="40px" src="./technologies/reactjs.svg" /></a>
@@ -106,51 +157,31 @@ My work bridges the gap between robust technical infrastructure and actionable g
   &nbsp;&nbsp;
   <a href="https://openlayers.org"><img alt="OpenLayers" width="40px" src="./technologies/openlayers.png" /></a>
   &nbsp;&nbsp;
-  <a href="https://spring.io/"><img alt="Spring Boot" width="40px" src="./technologies/spring.svg" /></a>
-  &nbsp;&nbsp;
-  <a href="https://quarkus.io"><img alt="Quarkus" width="40px" src="./technologies/quarkus.png" /></a>
-  &nbsp;&nbsp;
   <a href="https://ifcjs.io"><img alt="IFC.js" width="40px" src="./technologies/ifcjs.png" /></a>
 </div>
 
-### Databases & Spatial
+### Analytics & Research Tools
 
 <div align="left">
-  <a href="https://www.postgresql.org"><img alt="PostgreSQL" width="40px" src="./technologies/postgresql.svg" /></a>
+  <a href="https://www.r-project.org"><img alt="R" width="47px" src="./technologies/R.svg" /></a>
   &nbsp;&nbsp;
-  <a href="https://postgis.net"><img alt="PostGIS" width="26px" src="./technologies/postgis.png" /></a>
+  <a href="https://qgis.org"><img alt="QGIS" width="40px" src="./technologies/qgis.png" /></a>
+  &nbsp;&nbsp;
+  <a href="http://www.saga-gis.org"><img alt="SAGA GIS" width="40px" src="./technologies/sagagis.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.cloudcompare.org"><img alt="CloudCompare" width="40px" src="./technologies/cloudcompare.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.fortran90.org"><img alt="Fortran" width="40px" src="./technologies/fortran.png" /></a>
 </div>
 
-### Geospatial Web Services
-
-<div align="left">
-  <a href="https://mapserver.org"><img alt="MapServer" width="26px" src="./technologies/mapserver.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://geoserver.org/"><img alt="GeoServer" width="40px" src="./technologies/geoserver.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://geonode.org/"><img alt="GeoNode" width="40px" src="./technologies/geonode.svg" /></a>
-  &nbsp;&nbsp;
-  <a href="https://docs.mapstore.geosolutionsgroup.com"><img alt="MapStore" width="32px" src="./technologies/mapstore.png" /></a>
-</div>
-
-### DevOps & Infrastructure
-
-<div align="left">
-  <a href="https://www.docker.com"><img alt="Docker" width="40px" src="./technologies/docker.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://kubernetes.io"><img alt="Kubernetes" width="40px" src="./technologies/k8s.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.jenkins.io"><img alt="Jenkins" width="32px" src="./technologies/jenkins.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.terraform.io"><img alt="Terraform" width="32px" src="./technologies/terraform.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.ansible.com"><img alt="Ansible" width="32px" src="./technologies/ansible.png" /></a>
-</div>
-
-### Development Tools
+### Integration & API Tools
 
 <div align="left">
   <a href="https://insomnia.rest"><img alt="Insomnia" width="40px" src="./technologies/insomnia.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.javascript.com"><img alt="JavaScript" width="40px" src="./technologies/javascript.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://devdocs.io/bash"><img alt="Bash" width="40px" src="./technologies/shellscript.png" /></a>
 </div>
 
 ## GitHub Statistics
