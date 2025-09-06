@@ -109,13 +109,21 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
   &nbsp;&nbsp;
   <a href="https://argoproj.github.io"><img alt="Argo" width="34px" src="./technologies/argocd.png" /></a>
   &nbsp;&nbsp;
-    <a href="https://github.com/features/actions"><img alt="Actions" width="32px" src="./technologies/actions.png" /></a>
+  <a href="https://github.com/features/actions"><img alt="Actions" width="32px" src="./technologies/actions.png" /></a>
   &nbsp;&nbsp;
   <a href="https://popeyecli.io"><img alt="Popeye" width="40px" src="./technologies/popeye.png" /></a>
   &nbsp;&nbsp;
   <a href="https://www.terraform.io"><img alt="Terraform" width="32px" src="./technologies/terraform.png" /></a>
   &nbsp;&nbsp;
   <a href="https://www.jenkins.io"><img alt="Jenkins" width="32px" src="./technologies/jenkins.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://aws.amazon.com/"><img alt="AWS" width="40px" src="./technologies/aws.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://azure.microsoft.com/en-us/products/devops"><img alt="Azure DevOps" width="40px" src="./technologies/azure.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://cloud.google.com"><img alt="Google Cloud" width="40px" src="./technologies/googlecloud.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.digitalocean.com"><img alt="Digital Ocean" width="40px" src="./technologies/digitalocean.svg" /></a>
 </div>
 
 ### Enterprise Geospatial Platforms
@@ -141,6 +149,8 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
 
 <div align="left">
   <a href="https://www.postgresql.org"><img alt="PostgreSQL" width="40px" src="./technologies/postgresql.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.pgpool.net/mediawiki/index.php/Main_Page"><img alt="Pgpool" width="35px" src="./technologies/pgpool.png" /></a>
   &nbsp;&nbsp;
   <a href="https://postgis.net"><img alt="PostGIS" width="26px" src="./technologies/postgis.png" /></a>
   &nbsp;&nbsp;
@@ -203,5 +213,8 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
 ## GitHub Statistics
 
 <div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=pimentafm&theme=tokyonight&hide_border=true&short_numbers=true&starting_year=2015)
+
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pimentafm&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Statistics" />
 </div>
