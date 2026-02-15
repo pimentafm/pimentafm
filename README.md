@@ -1,46 +1,44 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fernando Pimenta
+# Fernando Pimenta
+
+**Geospatial Solutions Architect** — Designing enterprise-grade geospatial ecosystems that bridge cutting-edge technology with business impact.
 
 ## About
 
-I am a **Geospatial Solutions Architect** specializing in designing and implementing enterprise-grade geospatial ecosystems that integrate cutting-edge technology with business requirements. My expertise encompasses the complete solution lifecycle, from strategic architecture design to technical implementation and operational optimization.
+Architect specializing in scalable geospatial platforms, from strategic design to implementation and operations. I work across the full solution lifecycle, integrating cloud-native infrastructure, real-time analytics, and digital twin technologies into complex enterprise environments.
 
-### Core Expertise
+**Key areas:** Solution & Infrastructure Architecture · Enterprise Integration · Data Engineering · Digital Twins · DevOps & CI/CD · AI/ML for Spatial Analytics
 
-- **Solution Architecture**: Design of scalable, resilient geospatial platforms integrating multiple data sources, processing pipelines, and delivery mechanisms
-- **Enterprise Integration**: Architecture of geospatial solutions within complex enterprise environments, ensuring seamless integration with existing systems and workflows
-- **Technology Strategy**: Evaluation and selection of optimal technology stacks for specific business requirements and technical constraints
-- **Infrastructure Architecture**: Design of cloud-native, hybrid, and on-premise geospatial architectures leveraging AWS, Azure, Google Cloud Platform, and enterprise data centers
-- **Data Engineering**: Architecture of robust data pipelines for geospatial ETL, real-time streaming, and large-scale analytics
-- **Geospatial Digital Twins**: Design and implementation of real-time digital replicas of physical environments, integrating IoT sensors, satellite imagery, and predictive modeling
-- **DevOps & Automation**: Implementation of CI/CD pipelines, infrastructure as code, and automated deployment strategies for geospatial applications
+## 🔭 Currently Working On
 
-My approach combines deep technical knowledge with business acumen, ensuring that geospatial solutions not only meet current requirements but are architected for future scalability and technological evolution.
+- Real-time Digital Twin platforms for smart city and environmental monitoring
+- Cloud-native geospatial architectures with Kubernetes and service mesh
+- Large-scale spatial data pipelines for precision agriculture
 
-## Solution Architecture Focus Areas
+## Solution Architecture
 
-### Enterprise Geospatial Platforms
+### Enterprise Platforms
 
-- **Spatial Data Lakehouses**: Design of multi-petabyte geospatial data architectures with optimized query performance
-- **Real-time Geospatial Analytics**: Architecture of streaming analytics platforms for location intelligence and IoT sensor data
-- **Geospatial Digital Twins**: Implementation of comprehensive digital replicas combining real-time sensor data, satellite imagery, and predictive analytics for continuous environmental and infrastructure monitoring
-- **Microservices Architecture**: Design of containerized, cloud-native and on-premise geospatial services using Docker, Kubernetes, and service mesh
-- **High-Availability Infrastructure**: Design of resilient on-premise geospatial infrastructures with load balancing, failover clustering, and disaster recovery capabilities
+- **Spatial Data Lakehouses** — Multi-petabyte geospatial data architectures with optimized query performance
+- **Real-time Analytics** — Streaming platforms for location intelligence and IoT sensor data
+- **Digital Twins** — Real-time replicas integrating IoT sensors, satellite imagery, and predictive modeling for environmental and infrastructure monitoring
+- **Cloud-Native Services** — Containerized microservices with Docker, Kubernetes, and service mesh, designed for high-availability and disaster recovery
 
-### Industry Solutions
+### Industry Focus
 
-- **Smart Cities & Urban Planning**: Comprehensive GIS platforms integrating IoT, citizen services, and municipal operations with digital twin models for real-time city performance monitoring
-- **Environmental Monitoring**: Large-scale environmental data processing systems for climate research and natural resource management, featuring digital twins of ecosystems and watersheds
-- **Agriculture & Precision Farming**: End-to-end solutions for agricultural monitoring, yield prediction, and resource optimization using field-scale digital twins for crop management
-- **Energy & Utilities**: Geospatial asset management and grid optimization platforms with digital twin infrastructure for predictive maintenance and smart grid operations
-- **Infrastructure Digital Twins**: Real-time monitoring and simulation platforms for transportation networks, buildings, and industrial facilities
-- **Government & Defense**: Secure on-premise geospatial solutions for critical infrastructure, national security, and classified operations with air-gapped architectures
+- **Smart Cities & Urban Planning** — GIS platforms integrating IoT, citizen services, and real-time monitoring
+- **Environmental Monitoring** — Large-scale climate research and natural resource management systems
+- **Agriculture & Precision Farming** — End-to-end monitoring, yield prediction, and resource optimization
+- **Energy & Utilities** — Asset management, grid optimization, and predictive maintenance
+- **Government & Defense** — Secure on-premise solutions for critical infrastructure with air-gapped architectures
 
-### Technology Integration
+### Integration & Strategy
 
-- **API Strategy & Design**: RESTful and GraphQL APIs for geospatial data access and real-time operations
-- **Data Mesh Architecture**: Implementation of domain-driven geospatial data architectures for large enterprises
-- **AI/ML Integration**: Architecture of machine learning pipelines for geospatial analytics and automated decision-making
-- **Digital Twin Integration**: Seamless integration of IoT sensors, satellite feeds, and predictive models within unified digital twin frameworks for real-time spatial intelligence
+RESTful/GraphQL APIs · Data Mesh Architecture · AI/ML Pipelines · IoT Sensor Integration
+
+## 🌐 Languages
+
+- **Portuguese** — Native
+- **English** — Professional proficiency
 
 ## Connect
 
@@ -124,6 +122,10 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
   <a href="https://cloud.google.com"><img alt="Google Cloud" width="40px" src="./technologies/googlecloud.png" /></a>
   &nbsp;&nbsp;
   <a href="https://www.digitalocean.com"><img alt="Digital Ocean" width="40px" src="./technologies/digitalocean.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.ansible.com"><img alt="Ansible" width="40px" src="./technologies/ansible.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://prometheus.io"><img alt="Prometheus" width="40px" src="./technologies/prometheus.png" /></a>
 </div>
 
 ### Enterprise Geospatial Platforms
@@ -196,6 +198,8 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
   <a href="https://spring.io/"><img alt="Spring Boot" width="40px" src="./technologies/spring.svg" /></a>
   &nbsp;&nbsp;
   <a href="https://quarkus.io"><img alt="Quarkus" width="40px" src="./technologies/quarkus.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://insomnia.rest"><img alt="Insomnia" width="40px" src="./technologies/insomnia.png" /></a>
 </div>
 
 ### Analytics & Research Tools
@@ -218,3 +222,9 @@ My approach combines deep technical knowledge with business acumen, ensuring tha
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pimentafm&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Statistics" />
 </div>
+
+---
+
+## 💬 Let's Connect
+
+I'm open to collaboration on geospatial open-source projects, digital twin initiatives, and enterprise architecture challenges. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/fernando-m-pimenta/) or explore my repositories.
