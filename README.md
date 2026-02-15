@@ -35,11 +35,6 @@ Architect specializing in scalable geospatial platforms, from strategic design t
 
 RESTful/GraphQL APIs · Data Mesh Architecture · AI/ML Pipelines · IoT Sensor Integration
 
-## 🌐 Languages
-
-- **Portuguese** — Native
-- **English** — Professional proficiency
-
 ## Connect
 
 <div align="left">
@@ -84,6 +79,12 @@ RESTful/GraphQL APIs · Data Mesh Architecture · AI/ML Pipelines · IoT Sensor 
 - **[Map Servers: Programming for multidisciplinary geographic data delivery using open source technologies](https://www.embrapa.br/busca-de-publicacoes/-/publicacao/950263/servidores-de-mapas-programacao-para-disponibilizar-dados-geograficos-multidisciplinares-utilizando-tecnologias-livres)** `[pt-BR]`  
   _Embrapa_ - Technical guide for geospatial web services implementation
 
+- **[Variação geográfica do tamanho dos módulos fiscais no Brasil](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/949260/1/doc146.pdf)** `[pt-BR]`  
+  _Embrapa Milho e Sorgo (Documentos, 146)_ - Geographic variation of fiscal module sizes across Brazilian municipalities
+
+- **[GeoPortal Embrapa Milho e Sorgo: plataforma para disponibilização de bases de dados de informações multidisciplinares georreferenciadas](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/974899/1/doc157.pdf)** `[pt-BR]`  
+  _Embrapa Milho e Sorgo (Documentos, 157)_ - Platform for georeferenced multidisciplinary database dissemination
+
 **[Complete publication list available on Lattes CV](http://lattes.cnpq.br/0646984654461300)**
 
 ## Architecture & Technology Expertise
@@ -126,6 +127,8 @@ RESTful/GraphQL APIs · Data Mesh Architecture · AI/ML Pipelines · IoT Sensor 
   <a href="https://www.ansible.com"><img alt="Ansible" width="40px" src="./technologies/ansible.png" /></a>
   &nbsp;&nbsp;
   <a href="https://prometheus.io"><img alt="Prometheus" width="40px" src="./technologies/prometheus.png" /></a>
+  &nbsp;&nbsp;
+  <a href="https://opentelemetry.io"><img alt="OpenTelemetry" width="40px" src="./technologies/otel.png" /></a>
 </div>
 
 ### Enterprise Geospatial Platforms
